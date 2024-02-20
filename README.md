@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=HSmBvLAcwzw
 
 ## Installation
 
-No installation necessary. To start application, open application repositor folder in terminal and run node index.js. For more instruction, please follow steps shared in Application Demo that's on YouTube.
+No installation necessary. To start application, open application repository folder in terminal and run node index.js. For more instruction, please follow steps shared in Application Demo that's on YouTube.
 
 ## Usage
 
